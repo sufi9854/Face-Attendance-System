@@ -1,10 +1,3 @@
-Here's a **complete and professional `README.md`** file for your **Face Recognition-Based Attendance Monitoring System** project using Python and OpenCV. It’s designed for GitHub, and includes everything: badges, tech stack, setup instructions, screenshots section, and license.
-
----
-
-### ✅ Final README.md (Markdown)
-
-```markdown
 # 🎓 Face Recognition-Based Attendance Monitoring System
 
 > A real-time biometric attendance tracking system using face recognition with OpenCV and Python.
@@ -12,8 +5,6 @@ Here's a **complete and professional `README.md`** file for your **Face Recognit
 ![GitHub repo size](https://img.shields.io/github/repo-size/sufi9854/Face-Attendance-System)
 ![GitHub last commit](https://img.shields.io/github/last-commit/sufi9854/Face-Attendance-System)
 ![GitHub license](https://img.shields.io/github/license/sufi9854/Face-Attendance-System)
-
----
 
 ## 📌 Overview
 
