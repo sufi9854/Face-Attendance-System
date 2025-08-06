@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Face_recognition_based_attendance_system
 A python GUI integrated attendance system using face recognition to take attendance.
 
@@ -30,3 +31,7 @@ HELP OPTION IN MENUBAR:
 
 CHANGE PASSWORD OPTION:
 ![Screenshot (13)](https://user-images.githubusercontent.com/37211676/58502146-97539380-81a3-11e9-8536-0c68160ecc55.png)
+=======
+# Attendance-Monitoring-System
+The Online Attendance Monitoring System is a web-based application developed using Python, OpenCV, and Flask, which automates the process of tracking student or employee attendance using face recognition technology.The system captures real-time video from a webcam,detects and recognizes faces using OpenCV,and logs attendance into a backenddatabase.
+>>>>>>> 7342a5da7989fae08682ac6dc110a76873f16fe5
